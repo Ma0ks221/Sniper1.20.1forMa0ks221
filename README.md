@@ -1,7 +1,4 @@
-# Sniper1.20.1forMa0ks221
-Моя сборка для Minecraft Java 1.20.1 Forge
-
-# 🎯 Sniper 1.20.1 - Tactical Modpack for Minecraft (Forge 1.20.1)
+# 🎯 Sniper 1.20.1 - Tactical Modpack for Minecraft (Forge 1.20.1) от Ma0ks221
 
 Готовая тактическая сборка на базе **Forge 1.20.1**, сфокусированная на реалистичном огнестреле, динамичном перемещении и высокой производительности.
 
