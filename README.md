@@ -35,4 +35,4 @@
 * ⚡ **Оптимизация и FPS:** Комплексный буст производительности и оптимизация RAM (`ModernFix`, `FerriteCore`, `Entity Culling`).
 * 🛠️ **Удобство и GUI:** Удобный инвентарь (`MouseTweaks`), зум прицеливания (`Ok Zoomer`), индикаторы HP и статусов (`Tslat Entity Status`).
 
-Если вы хотите следить за обновлениями моей сборки и сервера залетайте в Discord Server: https://discord.gg/3fFQXzq554
+Если вы хотите следить за обновлениями моей сборки или помочь, то залетайте на мой Discord Server: https://discord.gg/3fFQXzq554
